@@ -1,4 +1,5 @@
 import Navbar from "@/components/Navbar";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Layout({ children }: Readonly<{ children: React.ReactNode }>) {
     return (
@@ -6,6 +7,7 @@ export default function Layout({ children }: Readonly<{ children: React.ReactNod
             <Navbar />
 
             {children}
+            <SpeedInsights />
         </main>
     )
 }
