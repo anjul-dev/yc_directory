@@ -38,7 +38,7 @@ const StartupForm = () => {
           description: "Your startup pitch has been created successfully",
         });
 
-        router.push(`/startup/${result._id}`);
+        // router.push(`/startup/${result._id}`);
       }
 
       return result;
@@ -75,6 +75,12 @@ const StartupForm = () => {
     error: "",
     status: "INITIAL",
   });
+
+  React.useEffect(() => {
+  if (state.status === "SUCCESS" && state._id) {
+    router.push(`/startup/${state._id}`);
+  }
+}, [state, router]);
 
   return (
     <form action={formAction} className="startup-form">
