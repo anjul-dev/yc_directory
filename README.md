@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/Zq5fmkH0T78?feature=shared" target="_blank">
+    <a href="https://github.com/Anjulsinghal/startup-directory" target="_blank">
       <img src="https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99" alt="Project Banner">
     </a>
   <br />
@@ -16,7 +16,7 @@
 <h3 align="center">Startup Directory Platform</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Built by <a href="https://github.com/Anjulsinghal" target="_blank"><b>Anjul Singhal</b></a> - Full Stack Developer & Software Engineer
     </div>
 </div>
 
@@ -28,27 +28,14 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube
-channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/Zq5fmkH0T78?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+7. 👨‍💻 [Developer](#developer)
 
 ## <a name="introduction">🤖 Introduction</a>
 
 A Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other
 pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+This project demonstrates advanced full-stack development skills using modern web technologies including React 19, Next.js 15, and real-time content management with Sanity CMS.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -100,8 +87,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
-cd pitchify
+git clone https://github.com/Anjulsinghal/startup-directory.git
+cd startup-directory
 ```
 
 **Installation**
@@ -555,16 +542,29 @@ export const PLAYLIST_BY_SLUG_QUERY =
 
 ## <a name="links">🔗 Assets</a>
 
-- Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
-- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
-- [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
+- Project assets and resources can be found in the `/public` directory
+- Custom fonts and styling configurations are included in the project setup
 
-## <a name="more">🚀 More</a>
+## <a name="developer">👨‍💻 Developer</a>
 
-**Advance your skills with Next.js Pro Course**
+**Anjul Singhal**
+- 📧 Email: work.anjulsinghal@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/anjul-singhal](https://linkedin.com/in/anjul-singhal/)
+- 🐙 GitHub: [github.com/Anjulsinghal](https://github.com/Anjulsinghal)
+- 📍 Location: Noida, Uttar Pradesh, India
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+**About the Developer:**
+- Software Trainee at Appinventiv with experience in React.js, TypeScript, and modern frontend technologies
+- MCA graduate with 8.1 CGPA from Hindustan Institute of Management and Computer Studies
+- Skilled in full-stack development with expertise in React.js, Next.js, Node.js, Express, MongoDB, and more
+- LeetCode rating: 1500+ with 350+ problems solved
+- Passionate about building scalable web applications and solving complex problems
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
+**Other Projects:**
+- **Chatty**: Real-time chat application with WebSocket integration
+- **Broodl**: Daily mood tracker with analytics dashboard
+- **Cloud Notes**: Secure notes management system with JWT authentication
+
+---
+
+*This project showcases modern web development practices and serves as a comprehensive example of a full-stack application built with Next.js 15 and React 19.*
